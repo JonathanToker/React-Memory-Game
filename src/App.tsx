@@ -75,6 +75,7 @@ function App() {
                     item.isInvisble ? "invisble-bg" : null
                   }`}
                   key={index}
+                  aria-disabled={item.isInvisble}
                   onClick={() => handleSelect(index)}
                 >
                   {item.isSelected && item.isInvisble === false

@@ -36,4 +36,5 @@
 
 .invisble-bg {
   background-color: brown;
+  cursor: default;
 }
