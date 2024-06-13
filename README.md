@@ -1,4 +1,5 @@
-# React + TypeScript + Vite
+# React Memory Game
+![image](https://github.com/JonathanToker/React-Memory-Game/assets/116793943/817055cc-bc01-4a2b-abea-f6bf56218d18)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
